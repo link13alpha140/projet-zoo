@@ -1,0 +1,5 @@
+package projetzoo;
+
+class Animal {
+
+}
