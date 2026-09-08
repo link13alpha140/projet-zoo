@@ -1,6 +1,6 @@
 package projetzoo;
 
-class Animal {
-
+abstract class Animal {
+	abstract void crier();
+	abstract void manger();
 }
-//test
